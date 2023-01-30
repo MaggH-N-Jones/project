@@ -17,7 +17,7 @@ public class class2
 {
 	private class2()
 	{
-		char[] strng = "a", "s", "t", "r", "i", "n", "g"
+		var strng = new char[] { 'a', 's', 't', 'r', 'i', 'n', 'g' };
 
         string sejtereNavn = "Jensen";
     }
