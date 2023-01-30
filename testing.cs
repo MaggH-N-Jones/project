@@ -9,5 +9,6 @@ public class Class1
 		int C = 9;
 
 		string sejtNavn = "Phamishan";
-	}
+        string sejtereNavn = "Jensen";
+    }
 }
