@@ -9,3 +9,11 @@ public class Class1
 		int C = 9;
 	}
 }
+
+public class class2
+{
+	private class2()
+	{
+		char[] strng = "a", "s", "t", "r", "i", "n", "g"
+	}
+}
