@@ -5,6 +5,6 @@ public class Class1
 {
 	public Class1()
 	{
-		int a = 1;
+		int a = 3;
 	}
 }
