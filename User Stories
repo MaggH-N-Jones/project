@@ -1,5 +1,5 @@
 som kunde
-kan jeg afgive en bestilling til bartenderen fra menukortet
+kan jeg afgive en bestilling af en eller flere varer fra menukortet til bartenderen
 for at få en levering
 
 som kunde
@@ -7,25 +7,21 @@ kan jeg reservere bord og poolstav hos bartenderen
 for at komme i kø til at spille pool
 
 som bartender
-modtager jeg en bestilling fra menukortet af kunden og forbereder det bestildte
+modtager jeg en bestilling af en vare fra menukortet samt betaling fra kunden som foretager en bestilling bestående af en eller flere drinks (og evt. forbederer) og serverer det bestilte
 for at kunden kan få det han har bestilt
 
 som bartender
 tager jeg imod resevationer til pool og tilføje kunden til pool-køen
 for at kunden kan spille pool i ro og orden
 
-som manager
+som ejer
 bestiller jeg varer hjem
 for at kunne få en levering
 
-som manager
-kan jeg manage bartendere
-for at 
-
-som manager
-opdatere jeg menukortet ud fra de vare jeg har på lager 
+som ejer
+opdaterer jeg menukortet ud fra de varer jeg har på lager
 for at kunden ved hvad de kan bestille
 
 som medarbejder
 tager jeg imod leveringer og sætter dem på lager
-for at 
+for at bartenderen kan lave drinks med varene
