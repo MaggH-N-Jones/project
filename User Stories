@@ -1,19 +1,27 @@
 som kunde
-kan jeg afgive en bestilling til bartenderen
-for at afventer min bestilling
+kan jeg afgive en bestilling til bartenderen fra menukortet
+for at få en levering
 
 som kunde
 kan jeg reservere bord og poolstav hos bartenderen
-for at spille pool
+for at komme i kø til at spille pool
 
 som bartender
-sælger jeg drinks
-for at give kunden drinks
+modtager jeg en bestilling fra menukortet af kunden og forbereder det bestildte
+for at kunden kan få det han har bestilt
+
+som bartender
+tager jeg imod resevationer til pool og tilføje kunden til pool-køen
+for at kunden kan spille pool i ro og orden
 
 som manager
 bestiller jeg varer hjem
-for at kunne sælge drinks
+for at kunne få en levering
 
 som manager
 kan jeg manage bartendere
 for at 
+
+som manager
+kan jeg administrere menukortet 
+for at kunden ved hvad de kan bestille
